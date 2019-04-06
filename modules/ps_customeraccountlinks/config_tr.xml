@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_customeraccountlinks</name>
+    <displayName><![CDATA[Hesabım Bloğu]]></displayName>
+    <version><![CDATA[3.1.0]]></version>
+    <description><![CDATA[Kullanıcının hesabı ile ilgili bağlantıların olduğu bir blok g&ouml;r&uuml;nt&uuml;ler.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

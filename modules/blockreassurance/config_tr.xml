@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockreassurance</name>
+    <displayName><![CDATA[M&uuml;şteri g&uuml;vencesi]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[Mağaza m&uuml;şterilerine mağazanızın g&uuml;venli olduğunu g&ouml;steren faydalı bilgiler i&ccedil;eren bir bilgi bloğu ekler.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

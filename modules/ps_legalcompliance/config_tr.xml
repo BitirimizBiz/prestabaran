@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_legalcompliance</name>
+    <displayName><![CDATA[Yasal Uyumluluk]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[Bu mod&uuml;l satıcıların ilgili e-ticaret yasalarına uymalarına yardımcı olur.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Bu modülü kaldırmak istediğinize emin misiniz?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
