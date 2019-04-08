@@ -8,5 +8,5 @@ Adınıza yeni bir sipariş oluşturulmuştur.
 [{order_link}] ile devam edin. 		 
 
 {shop_name} [{shop_url}] powered by
-PrestaShop(tm) [http://www.prestashop.com/] 
+ek-mak (tm) [http://www.ek-mak.com/] 
 

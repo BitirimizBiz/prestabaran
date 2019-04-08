@@ -32,5 +32,5 @@ Eğer bir misafir hesabınız varsa mağazamız üzerinden
 bağlantısını tıklayarak siparişinizi takip edebilirsiniz. 
 
 {shop_name} [{shop_url}] powered by
-PrestaShop(tm) [http://www.prestashop.com/] 
+ek-mak(tm) [http://www.ek-mak.com/] 
 

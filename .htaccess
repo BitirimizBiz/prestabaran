@@ -17,16 +17,6 @@ SetEnv HTTP_MOD_REWRITE On
 RewriteEngine on
 
 
-#Domain: presta.bitirimiz.bi
-RewriteRule . - [E=REWRITEBASE:/]
-RewriteRule ^api$ api/ [L]
-
-RewriteRule ^api/(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
-
-# AlphaImageLoader for IE and fancybox
-RewriteRule ^images_ie/?([^/]+)\.(jpe?g|png|gif)$ js/jquery/plugins/fancybox/images/$1.$2 [L]
-
-
 #Domain: presta.bitirimiz.biz
 RewriteRule . - [E=REWRITEBASE:/]
 RewriteRule ^api$ api/ [L]

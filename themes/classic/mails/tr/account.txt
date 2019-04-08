@@ -24,5 +24,5 @@ E-POSTA ADRESI: {email}
 [{shop_url}] 
 
 {shop_name} [{shop_url}] powered by
-Ekinci Makina(tm) [http://www.ekincimakina.com/] 
+Ekinci Makina(tm) [http://www.ek-mak.com/] 
 
